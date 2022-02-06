@@ -1,23 +1,6 @@
 # M1_LMS
 Library Management System
 # Prakash_Librarymanagmentsystem
-
-
-# BADGES
- ## Code Quality 
-![Code Quality Score](https://www.code-inspector.com/project/27851/score/svg)
-
-## code grade
-![Code grade](https://www.code-inspector.com/project/27851/status/svg)
-
-## Codacya Badge
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/54b8393b927a4b0f8c34a19f8a1363a1)](https://app.codacy.com/gh/SonikaAalla/Stepin_Librarymanagmentsystem?utm_source=github.com&utm_medium=referral&utm_content=SonikaAalla/Stepin_Librarymanagmentsystem&utm_campaign=Badge_Grade_Settings)
-
-## Git Inspector
-[![Contribution Check - Git Inspector](https://github.com/SonikaAalla/Stepin_Librarymanagmentsystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SonikaAalla/Stepin_Librarymanagmentsystem/actions/workflows/gitinspector.yml)
-
-
-
 # **LIBRARY MANAGEMENT SYSTEM**
 
 Library management is a project that manages and stores books information electronically according to students needs. The system helps both students and library manager to keep a constant track of all the books available in the library. It allows both the admin and the student to search for the desired book.
@@ -46,3 +29,5 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 2.Geeksforgeeks
 
 3.future skills
+
+
