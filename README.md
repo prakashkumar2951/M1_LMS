@@ -29,5 +29,5 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 
 3.future skills
 
-4.Help from Github
+4.Github
 
