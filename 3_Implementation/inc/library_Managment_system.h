@@ -1,11 +1,8 @@
 /**
  * @file library_Managment_system.h
- * @author Aalla Sonika (aalla.sonika@ltts.com)
  * @brief 
  * @version 0.1
- * @date 2021-07-11
  * 
- * @copyright Copyright (c) 2021
  * 
  */
 
